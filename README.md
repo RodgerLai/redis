@@ -1,0 +1,2 @@
+# redis
+make redis easy
